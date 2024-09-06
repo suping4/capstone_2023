@@ -9,5 +9,7 @@
 ## 24.09 코드 보완
 ### 클래스 구조
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/ad7b9664-583e-47de-9e7c-daa8e584d421">
-### 플로우 차트
+
+### 플로우
+
 <img width="529" alt="image" src="https://github.com/user-attachments/assets/4fc23bc3-cf1a-4c58-9fa1-adf1e8cd33fd">
