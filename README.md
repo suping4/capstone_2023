@@ -8,7 +8,7 @@
 
 ## 24.09 코드 보완
 ### 클래스 구조
-<img width="1103" alt="image" src="https://github.com/user-attachments/assets/ad7b9664-583e-47de-9e7c-daa8e584d421">
+![image](https://github.com/user-attachments/assets/129caad9-753a-41ce-94df-5086fcf70175)
 
 ### 플로우
 
