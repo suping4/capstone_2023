@@ -6,7 +6,7 @@
 ![image](https://github.com/suping4/capstone_2023/assets/88069526/37e7f9be-b82c-4057-9c15-db98955a5002)
 
 
-## 24.09 코드 보완
+## 객체지향 코드 보완
 ### 클래스 구조
 ![image](https://github.com/user-attachments/assets/129caad9-753a-41ce-94df-5086fcf70175)
 
