@@ -8,8 +8,6 @@
 class ASCIIProcessor {
 public:
     static void ascii_braille(int code, Braille &bra);
-
-private:
     static const byte ascii_data[127];
 };
 
